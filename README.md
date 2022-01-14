@@ -1,5 +1,5 @@
-# EvolCraft
-> installation setup for evolcraft
+# EvolCraft IP: 20.104.213.255
+   - installation setup for evolcraft 
 
 ### 1. Download latest [java](https://www.java.com/download/ie_manual.jsp)
 

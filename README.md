@@ -18,4 +18,5 @@
 > download with curseforge app
 
 ### 8. Download [BSL Shaders](https://resourcepack.net/bsl-shaders/)
+> move whole zip file to AppData\Roaming\.minecraft\shaderpacks
 > enable shaders in video settings

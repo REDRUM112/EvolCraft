@@ -10,13 +10,13 @@
 ### 4. Download [Forge 1.18.1](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
 ### 5. Download [Optifine 1.18.1](https://optifine.net/downloads)
-> move file to AppData\Roaming\.minecraft\mods
+- move file to AppData\Roaming\.minecraft\mods
 
 ### 6. Download [CurseForge](https://download.curseforge.com/)
 
 ### 7. Download [BetterCraft](https://www.curseforge.com/minecraft/modpacks/better-minecraft-modpack-new) forge edition on curseforge
-> download with curseforge app
+- download with curseforge app
 
 ### 8. Download [BSL Shaders](https://resourcepack.net/bsl-shaders/)
-> move whole zip file to AppData\Roaming\.minecraft\shaderpacks
-> enable shaders in video settings
+- move whole zip file to AppData\Roaming\.minecraft\shaderpacks
+ - enable shaders in video settings

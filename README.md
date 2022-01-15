@@ -40,7 +40,7 @@
 
 ## 3. Download [Optifine 1.18.1](https://optifine.net/downloads) (optional)
 - move file to AppData\Roaming\.minecraft\mods
-- 
+
 ## 4. Download [BSL Shaders](https://resourcepack.net/bsl-shaders/) (optional)
    - move whole zip file to AppData\Roaming\.minecraft\shaderpacks
      - enable shaders in video settings

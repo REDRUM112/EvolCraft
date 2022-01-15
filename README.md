@@ -1,14 +1,4 @@
- 
-
-| IP             | Type          | port  |
-| -------------  |:-------------:| -----:|
-| 20.104.213.255 | `Modded`      | 25565 |
-| 20.104.213.255 | `Vanilla`     | 25566 |
-
- 
----
-
-# EvolCraft (modded)
+ # EvolCraft (modded)
 > ##### installation setup for evolcraft modded
 
 ## 1. Download latest [java](https://www.java.com/download/ie_manual.jsp)
@@ -44,3 +34,11 @@
 ## 4. Download [BSL Shaders](https://resourcepack.net/bsl-shaders/) (optional)
    - move whole zip file to AppData\Roaming\.minecraft\shaderpacks
      - enable shaders in video settings
+
+***
+# Server Info
+
+| IP             | Type          | port  |
+| -------------  |:-------------:| -----:|
+| 20.104.213.255 | `Modded`      | 25565 |
+| 20.104.213.255 | `Vanilla`     | 25566 |
